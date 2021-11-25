@@ -1,6 +1,6 @@
 {
   "name": "urbandictionary-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "UrbanDictionary API (Unofficial) tha finds the defination of any word in the website",
   "main": "index.js",
   "dependencies": {
