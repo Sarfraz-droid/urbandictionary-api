@@ -2,9 +2,8 @@ UrbanDictionary API (Unofficial) tha finds the defination of any word in the web
 
 ## How to Use 
 
-```
-    npm install urbandictionary-api
-```
+`npm install urbandictionary-api --save`
+
 #### Example
 
 ```
