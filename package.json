@@ -1,6 +1,6 @@
 {
   "name": "urbandictionary-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UrbanDictionary API (Unofficial) tha finds the defination of any word in the website",
   "main": "index.js",
   "dependencies": {
@@ -19,7 +19,7 @@
     "dictionary"
   ],
   "author": "Sarfraz-droid",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Sarfraz-droid/urbandictionary-api/issues"
   },
